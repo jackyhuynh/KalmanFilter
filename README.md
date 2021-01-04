@@ -42,6 +42,7 @@ A step by step series of examples that tell you how to get a development envirom
 ## Running the tests
 
 Explain how to run the automated tests for this system:
+- There is no download IDE need, all you need is download all the src to your machine and run it.
 - Using Jupiter Notebook
 - Navigate to the file Kahman_Filter_Implementation.ipynb
 - hit:
@@ -50,6 +51,7 @@ Explain how to run the automated tests for this system:
 Ctrl + Enter
 ```
 - The notebook will execute in Markdown form and include some data visualization to show the actual performance of kalmanfilter vs. lidar vs. round truth.
+
 ![alt](https://github.com/jackyhuynh/kalmanFilter-app/blob/main/src/picture/1.PNG)
 ## Deployment
 
