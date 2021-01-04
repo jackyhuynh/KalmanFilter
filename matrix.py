@@ -2,6 +2,7 @@ import math
 from math import sqrt
 import numbers
 
+
 def zeroes(height, width):
         """
         Creates a matrix of zeroes.
@@ -18,6 +19,9 @@ def identity(n):
             I.g[i][i] = 1.0
         return I
 
+#
+# class matrix 
+#############################
 class Matrix(object):
 
     # Constructor
