@@ -21,7 +21,15 @@ A Kalman filter does this by weighing the uncertainty in your belief about the l
 (Retrieved from Udaciti.com/Intro to self-Driving Car)
 
 ## Technology
-Python Programming, Object Oriented Design, Jupyter Notebook, Data Visualization.
+- Python 
+- Object Oriented Design
+- Jupyter Notebook
+- Data Visualization
+- Machine Learning
+- AI
+- Localization
+- Prediction
+- Data Structures
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
